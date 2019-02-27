@@ -168,10 +168,12 @@ El coach les dará el ok para que puedan empezar.
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
 |Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
 |Inventario de contenidos| Inventario de todos los contenidos de un producto. | 20 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|20|
+|Flowchart o wireflow|Esquema que define las diferentes formas de navegar tu sitio|10|
+|Sitemap|Documento con inventario de contenidos y su jerarquización|10|
 |Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 20 |
 |Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y/o alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
+|Testeo de prototipos de baja| Sesiones de testing de la solución propuesta en prototipos de baja fidelidad (sketches o wireframes) con al menos 5 usuarios por sesión. | 25 |
+|Testeos de prototipos de alta| Sesiones de testing de la solución propuesta en prototipos de alta fidelidad con al menos 5 usuarios por sesión. | 35 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
